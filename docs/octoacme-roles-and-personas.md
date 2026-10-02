@@ -260,4 +260,3 @@ Security Leads support secure delivery by ensuring risk, compliance, and securit
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - Together, these roles clarify accountability, improve communication, and support better project outcomes across planning, execution, and release.
-
